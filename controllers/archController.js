@@ -10,7 +10,7 @@ const encArch = require('../config/encabezadoArch.json');
 
 
 const arch = {
-    longField: (field, value) => {
+    longField: (field, value) => { 
         let str='';
         let numMax=0;
 
