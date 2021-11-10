@@ -1,0 +1,19 @@
+[
+    {
+        "empresa": "SIISA",
+        "dni": [8,"AN"],
+        "apeynom": [25, "A"],
+        "cuil": [12, "AN"],
+        "mtoMora": [5, "N"],
+        "int": [5, "N"],
+        "fIniMora": [8, "AN"]
+    },
+    {
+        "empresa": "CAMARA",
+        "dni": [8,"AN"],
+        "apeynom": [25, "A"],
+        "categoria": [1, "AN"],
+        "filler": [6, "F"]
+    }
+
+]  

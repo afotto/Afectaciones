@@ -1,0 +1,48 @@
+[
+  {
+      "empresa": "SIISA",
+      "createtxt": true,
+      "createzip": true,
+      "sendemail":true,
+      "emailaddress" : "infomorosos@siisa.com.ar" ,
+      "emailaddress1" : "andres.ottonello@gmail.com" ,
+      "emailsubject": "{{financiera}}: AFECTACIONES mm/aaaa",
+      "status":1
+  },
+  {
+      "empresa": "CAMARA",
+      "createtxt": true,
+      "createzip": true,
+      "sendemail":true,
+      "emailaddress" : "gabrielraffaelli@fibertel.com.ar",
+      "emailsubject": "{{financiera}}: AFECTACIONES mm/aaaa",
+      "status":1
+  },
+  {
+      "empresa": "SEVEN",
+      "createtxt": true,
+      "createzip": true,
+      "sendemail":true,
+      "emailaddress" : "nomail@nada.com",
+      "emailsubject": "{{financiera}}: AFECTACIONES mm/aaaa",
+      "status":1
+  },
+  {
+      "empresa": "CODEME",
+      "createtxt": true,
+      "createzip": true,
+      "sendemail":true,
+      "emailaddress" : "nomail@nada.com",
+      "emailsubject": "{{financiera}}: AFECTACIONES mm/aaaa",
+      "status":1
+  },
+  {
+      "empresa": "ClearingLaRioja",
+      "createtxt": true,
+      "createzip": true,
+      "sendemail":true,
+      "emailaddress" : "nomail@nada.com",
+      "emailsubject": "{{financiera}}: AFECTACIONES mm/aaaa",
+      "status":1
+  }
+]

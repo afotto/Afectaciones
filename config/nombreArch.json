@@ -1,0 +1,15 @@
+[
+    {
+        "empresa": "SIISA",
+        "pre":[1, "700_"],
+        "nom":[1, "MMYYYY"],
+        "ext":[1, ".txt"]
+    },
+    {
+        "empresa": "CAMARA",
+        "pre":[0, ""],
+        "nom":[0, "MORINP"],
+        "ext":[0, ".SEQ"]
+    }
+
+]
