@@ -27,6 +27,9 @@ En el futuro será reemplazado por una BD's
 
 Utilizando Postman:
 Generar archivo SIISA: http://localhost:3000/arch/SIISA
+El archivo generado quedará en 
+files/<nombre empresa>/<nombre archivo afectación>
 
 Envío por mail archivo SIISA: http://localhost:3000/mail/SIISA
+
 
