@@ -9,3 +9,9 @@ npm install
 # Ejecución
 npx nodemon
 
+# Test
+
+Utilizando Postman:
+Generar archivo SIISA: http://localhost:3000/arch/SIISA
+Envío por mail archivo SIISA: http://localhost:3000/mail/SIISA
+
